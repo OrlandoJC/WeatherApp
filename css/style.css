@@ -1,0 +1,62 @@
+body {
+background: #24C6DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding:60px;
+}
+
+.card {
+  width:400px;
+  height:520px;
+  margin: 0 auto;
+  background-color:white;
+  border-radius:10px;
+  position:relative;
+  overflow:hidden;
+}
+
+.cover {
+  position:absolute ;
+  width:100%;
+  height:100%;
+  background: #6a3093;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #a044ff, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #a044ff, #6a3093); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.location-box {
+  width:100%;
+  padding-top:40px;
+  padding-bottom:20px;
+  //background-color:green;
+  text-align:center;
+  font-size:1.5em;
+  color:white;
+}
+.temp-box {
+  width:100%;
+  padding-top:10px;
+  padding-bottom:10px;
+  //background-color:green;
+  text-align:center;
+  font-size:6em;
+  color:white;
+}
+
+.iconBox {
+  width:100%;
+  height:100px;
+  text-align:center;
+}
+
+.iconBox img {
+  width:100px;
+}
+
+
+.location {
+  font-weight: bold;
+}
+
+.weater-state {
+ font-size: .7em;
+}
