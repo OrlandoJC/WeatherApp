@@ -1,1 +1,1 @@
-[weatherapp](https://i.imgur.com/zoTieCc.png)
+![weatherapp](https://i.imgur.com/zoTieCc.png)
